@@ -1,6 +1,6 @@
 # Temp-Converter
 
-This is Temperature converter that will covert 
+This is Temperature converter that will convert 
 - any given Fahrenhiet teperature to Celcius and Kevin
 - any given Celcuis temperature to Fahrenheit and Kelvin
 - any given Kelvin temprature to Fahrenheit and Celcius
